@@ -261,7 +261,6 @@ Use byte when the value is within the byte range.
         variable and has not been initialized.
         */
         /*
-        =====================================================
                        DATA TYPE SUMMARY
         =====================================================
 
